@@ -92,5 +92,5 @@ server <- function(input, output, session){
   })
 }
 
-#New
+
 shinyApp(ui, server)
